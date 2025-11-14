@@ -56,7 +56,8 @@ const Login = ({ onLogin }) => {
           >
             Login
           </motion.button>
-          <h1 className="text-center text-white/80 mt-2">For login Check User.js file in Github Repo</h1>
+          <h1 className="text-center text-white/80 mt-2">Admin : email id : admin@gmail.com password:12345</h1>
+           <h1 className="text-center text-white/80 mt-2">User : email id : Shiv@gmail.com password:982004</h1>
         </form>
 
         <p className="text-center text-white/80 text-sm mt-5">
